@@ -40,7 +40,6 @@ def change_zip(zip):
 def search_results():
     address = session.attributes.get(ADDRESS_KEY)
     zipcode = session.attributes.get(ZIP_KEY)
-    #deep_search_response=zillow_data.get_deep_search_results(address, zipcode)
     deep_search_response=zillow_data.get_deep_search_results(address, zipcode)
     result=GetDeepSearchResults(deep_search_response)
     return result
