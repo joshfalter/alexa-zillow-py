@@ -1,0 +1,83 @@
+ValueofHomeIntent whats the value of my home
+ValueofHomeIntent how much is my home worth
+ValueofHomeIntent what's the z estimate of my home
+ValueofHomeIntent value of my home
+
+LookUpAddressIntent change address to {Address}
+LookUpAddressIntent change the address to {Address}
+LookUpAddressIntent look up {Address}
+
+ZipcodeIntent the zip code is {Zipcode}
+ZipcodeIntent the zip codes {Zipcode}
+ZipcodeIntent {Zipcode} is the zip code
+
+LatitudeIntent what is the latitude
+LatitudeIntent what's the latitude
+LatitudeIntent how many degrees north is it
+LatitudeIntent whats the latitude of the house
+LatitudeIntent whats the latitude of the home
+LatitudeIntent whats the home's latitude
+
+LongitudeIntent what is the longitude
+LongitudeIntent what's the longitude
+LongitudeIntent whats the longitude of the house
+LongitudeIntent whats the longitude of the home
+LongitudeIntent whats the home's longitude
+
+CoordinatesIntent what are the coordinates of the house
+CoordinatesIntent what are the coordinates of the home
+CoordinatesIntent where is it located
+
+YearBuiltIntent when was it built
+YearBuiltIntent what year was it built
+YearBuiltIntent when was the home built
+YearBuiltIntent when was the house built
+
+HomeTypeIntent what is the home type
+HomeTypeIntent what type of home is it
+HomeTypeIntent what type of house is it
+HomeTypeIntent what is the house type
+HomeTypeIntent what is the property type
+
+PropertySizeIntent what size is the property
+PropertySizeIntent how big is the property
+PropertySizeIntent how large is the property
+PropertySizeIntent what's the property size?
+
+HomeSizeIntent what size is the home
+HomeSizeIntent what size is the house
+HomeSizeIntent how big is the home
+HomeSizeIntent how big is the house
+HomeSizeIntent how big is the place
+HomeSizeIntent what size is the place?
+
+BathroomsIntent how many bathrooms does it have
+BathroomsIntent how many bathrooms are there
+BathroomsIntent what's the number of bathrooms
+
+BedroomsIntent how many bedrooms does it have
+BedroomsIntent how many bedrooms are there
+BedroomsIntent what's the number of bedrooms
+BedroomsIntent how many bedrooms
+
+LastSoldDateIntent when was it last sold?
+LastSoldDateIntent whats the date of last sale?
+LastSoldDateIntent what date was it last sold
+LastSoldDateIntent when was the property last sold
+LastSoldDateIntent when was the house last sold
+
+LastSoldPriceIntent what did it sell for
+LastSoldPriceIntent how much did it sell for
+LastSoldPriceIntent how much was it sold for
+
+ZestimateValuationRangeIntent whats the valuation range
+ZestimateValuationRangeIntent what is the valuation range
+ZestimateValuationRangeIntent whats the valuation range look like
+
+OverviewIntent give me the overview
+OverviewIntent whats the overview of the house
+OverviewIntent give me the summary
+OverviewIntent whats the summary of the property
+OverviewIntent whats the overview of the property
+
+

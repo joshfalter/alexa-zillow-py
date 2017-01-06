@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "intent": "LookUpAddressIntent",
+      "slots": [
+        {
+		"name": "Address",
+        "type": "AMAZON.PostalAddress"
+		}
+	  ]
+    },
+	{
+      "intent": "ZipcodeIntent",
+      "slots": [
+        {
+		"name": "Zipcode",
+        "type": "AMAZON.NUMBER"
+		}
+	  ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+	{
+      "intent": "ValueofHomeIntent"
+    },
+	{
+      "intent": "LatitudeIntent"
+    },
+	{
+      "intent": "LongitudeIntent"
+    },
+	{
+      "intent": "CoordinatesIntent"
+    },
+	{
+      "intent": "YearBuiltIntent"
+    },
+	{
+      "intent": "HomeTypeIntent"
+    },
+	{
+      "intent": "PropertySizeIntent"
+    },
+	{
+      "intent": "HomeSizeIntent"
+    },
+	{
+      "intent": "BathroomsIntent"
+    },
+	{
+      "intent": "BedroomsIntent"
+    },
+	{
+      "intent": "LastSoldDateIntent"
+    },
+	{
+      "intent": "LastSoldPriceIntent"
+    },
+	{
+      "intent": "ZestimateValuationRangeIntent"
+    },
+	{
+      "intent": "OverviewIntent"
+    },
+	{
+      "intent": "NoIntent"
+    }
+  ]
+}
