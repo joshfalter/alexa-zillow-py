@@ -78,11 +78,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-            
-
-
-  #  deep_search_response=zillow_data.get_deep_search_results(address, zipcode)
-  #  result=GetDeepSearchResults(deep_search_response)
-  #  print(address) #This is just for debugging what Alexa hears
-  #  speech_text = 'The address has been changed to ' + address + '.' + 'The value of this home is $' +result.zestimate_amount
-  #  return statement(speech_text).simple_card('Change Address', speech_text)
+ 
