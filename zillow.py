@@ -3,8 +3,6 @@ from pyzillow.pyzillow import ZillowWrapper, GetDeepSearchResults
 from flask import Flask
 from flask_ask import Ask, request, session, question, statement
 
-#address='9038 Maple Grove Drive'
-#zipcode='29485'
 zillow_data=ZillowWrapper('YOUR ZILLOW WEBSERVICES ID')
 
 
