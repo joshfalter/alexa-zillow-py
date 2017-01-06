@@ -13,8 +13,6 @@ logging.getLogger('flask_ask').setLevel(logging.DEBUG)
 
 ADDRESS_KEY= "ADDRESS"
 ZIP_KEY="ZIPCODE"
-DEEP_SEARCH_RESPONSE=object()
-RESULT=object()
 
 @ask.launch
 def launch():
