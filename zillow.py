@@ -5,7 +5,7 @@ from flask_ask import Ask, request, session, question, statement
 
 #address='9038 Maple Grove Drive'
 #zipcode='29485'
-zillow_data=ZillowWrapper('X1-ZWz19fmfnsa617_9myga')
+zillow_data=ZillowWrapper('YOUR ZILLOW WEBSERVICES ID')
 
 
 
